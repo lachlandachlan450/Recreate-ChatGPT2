@@ -6,3 +6,7 @@ Following the [tutorial](https://www.youtube.com/watch?v=l8pRSuU81PU&t=1092s&pp=
 ## Micrograd
 In the micrograd folder, there are two versions of the same code (commented / not), which is the structure of a neural network.
 It creates an MLP with randomised weights and tweaks the weights with backpropogation to minimise loss, but this is a very simple model with very small inputs.
+To do - create markdown explaining it
+
+## GenerateNames-1
+Todo - create markdown explaining it
